@@ -13,6 +13,7 @@ The goal is to strengthen my Python programming skills through hands-on practice
 | `Week-1 Take Home.ipynb` | Week 1 Python take-home assignment |
 | `Week-2 Take Home.ipynb` | Week 2 Python take-home assignment |
 | `Week - 3 Take Home.ipynb` | Week 3 Python take-home assignment |
+| `Week - 6 Pandas and Numpy` | Week 6 Using Pandas and Numpy to query data |
 
 Each notebook contains exercises and code developed during my learning process.
 
