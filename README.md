@@ -14,6 +14,7 @@ The goal is to strengthen my Python programming skills through hands-on practice
 | `Week-2 Take Home.ipynb` | Week 2 Python take-home assignment |
 | `Week - 3 Take Home.ipynb` | Week 3 Python take-home assignment |
 | `Week - 6 Pandas and Numpy` | Week 6 Using Pandas and Numpy to query data |
+| `Week - 7 SQL and Python` | Week 7 Querying a Weather and Holiday Datasets using Python and SQL|
 
 Each notebook contains exercises and code developed during my learning process.
 
